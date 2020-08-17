@@ -3,7 +3,7 @@
 # Ecoleta
 > O Ecoleta é uma aplicação (web e mobile) com o intuito de facilitar a forma de pessoas encontrarem um ponto de coleta de resíduos. <br />
 > Esse projeta faz parte da primeira edição do Next Level Week da Rocketseat, que tem como intuito ensinar as tecnologias mais utilizadas do mercado **React**, **React Native**, e **Node**. <br> <br>
-> Por questão de conhecimento, resolvi fazer o Backend em **Asp.Net Core (C#)**, utilizando alguns Padrões de Projeto (Design Patterns), como **Repositories Pattern** e **Data Transfer Object (DTO)**. Porém o Frontend foi feito com **React**.
+> Por questão de conhecimento, resolvi fazer o Backend em **Asp.Net Core (C#)**, utilizando alguns Padrões de Projeto (Design Patterns), como **Repositories Pattern** e **Data Transfer Object (DTO)**. E o Frontend foi feito com **React**.
 
 ## Tecnologias
 - [Asp.Net Core](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-3.1)
